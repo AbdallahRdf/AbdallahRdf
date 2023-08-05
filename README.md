@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abdallah Radfi</h1>
 <h3 align="center">A passionate fresh fullstack developer</h3>
 
+-  &#127793; I'm currently in my second year at Higher School of technology , studying computer science.
 
-- 🌱 I’m currently learning **react**
+- &#128104;&#8205;&#128187; I’m currently learning **react**
 
 - 📫 How to reach me **abdallahradfi@gmail.com**
 
