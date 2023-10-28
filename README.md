@@ -3,7 +3,7 @@
 
 -  &#127793; I'm currently in my second year at Higher School of technology , studying computer science.
 
-- &#128104;&#8205;&#128187; I’m currently learning **react**
+- &#128104;&#8205;&#128187; I’m currently learning **Laravel**
 
 - 📫 How to reach me **abdallahradfi@gmail.com**
 
