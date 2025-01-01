@@ -46,12 +46,13 @@
 </div><div align="center">
     
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AbdallahRdf&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=AbdallahRdf&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdallahRdf&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AbdallahRdf&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+[![AbdallahRdf's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=AbdallahRdf&show_icons=true&theme=radical#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![AbdallahRdf's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=AbdallahRdf&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=AbdallahRdf&theme=dark&hide_border=false)<br/><br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdallahRdf&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AbdallahRdf&icon=5&color=0)](https://visitcount.itsvg.in)
