@@ -19,7 +19,9 @@
 
 ###
 
-<div align="left">
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,php,java,react,nodejs,express,mysql,mongodb,python)](https://skillicons.dev)
+
+<!--<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -45,7 +47,7 @@
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div><div align="center">
+</div><div align="center"> -->
     
 # 📊 GitHub Stats:
 
