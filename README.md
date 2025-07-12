@@ -19,7 +19,7 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,php,java,react,nodejs,express,mysql,mongodb,python,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,php,java,react,nodejs,express,mysql,mongodb,python,docker)](https://skillicons.dev)
 
 <!--<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
