@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Abdallah Radfi</h1>
-<h3 align="left">A passionate fresh web developer 🌐💻.</h3>
+<h3 align="left">A software engineering student 🌐💻.</h3>
 
 -  &#127793; 📚 I'm currently learning backend technologies.
 
