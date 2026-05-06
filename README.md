@@ -8,7 +8,7 @@
 
 # Techs
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,alpinejs,php,java,react,nodejs,express,laravel,redis,postgresql,mysql,mongodb,python,docker,bash,git,github,githubactions)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,alpinejs,php,java,react,nodejs,express,laravel,redis,postgresql,mysql,mongodb,python,docker,bash,git,github,githubactions,nginx)](https://skillicons.dev)
     
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AbdallahRdf&theme=dark&hide_border=false)<br/><br/>
